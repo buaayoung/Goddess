@@ -6,6 +6,8 @@
 > 张扬 编辑
 
 ## 项目准备
+####数据源
+* [竞彩网](http://info.sporttery.cn/football/hhad_list.php)
 
 ## 项目模块
 * [模型相关参数](#model_param_relations)
